@@ -1,0 +1,3 @@
+mode: set
+app/sum.go:5.13,7.2 1 0
+app/sum.go:9.28,11.2 1 1
